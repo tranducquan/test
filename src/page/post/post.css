@@ -1,0 +1,9 @@
+.post h2{
+    font-weight: bold;
+}
+.post{
+    margin-top: 60px;
+}
+.post p{
+    margin-bottom: 60px;
+}

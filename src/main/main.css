@@ -1,0 +1,44 @@
+.main{
+    margin: 20px 0;
+}
+.link{
+    color: #333;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+.link:hover{
+    color: orange;
+}
+.main .card{
+    border: none;
+}
+.main .card-title{
+    overflow: hidden;
+    white-space: nowrap; 
+    text-overflow: ellipsis;
+}
+.main .card-img-top{
+    border-radius: 13px;
+    border: 1px solid lightgray;
+}
+.main .bigtitle{
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.main .add a{
+    text-decoration: none;
+    color: rgb(238, 155, 0);
+    font-weight: 500;
+}
+.main .add a:hover{
+    text-decoration: underline;
+}
+.main .card-text{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}

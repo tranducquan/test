@@ -1,0 +1,15 @@
+.foot{
+    background-color: #eeeeee;
+    padding: 30px 0 10px 0;
+}
+.foot h6{
+    font-weight: bold;
+    margin: 20px 0;
+}
+.foot p{
+    font-size: 15px;
+    line-height: 15px;
+}
+.foot .col-12{
+    margin-top: 50px;
+}
